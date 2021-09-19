@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Resource">
+        <file>Tool/yes_ico.png</file>
+        <file>Tool/txt_ico.png</file>
+        <file>Tool/rectangle_ico.png</file>
+        <file>Tool/paintbrush_ico.png</file>
+        <file>Tool/close_ico.png</file>
+        <file>Tool/circular_ico.png</file>
+        <file>Tool/back_ico1.png</file>
+        <file>Tool/back_ico.png</file>
+        <file>Tool/arrow_ico.png</file>
+        <file>Tool/Mosaic_ico.png</file>
+    </qresource>
+</RCC>
